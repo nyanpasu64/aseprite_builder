@@ -1,5 +1,5 @@
 name: Build and deploy Aseprite
-
+#
 on:
   push:
     branches:
